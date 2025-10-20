@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome 👋
 
-<!--
-**itsame62/itsame62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Profile.
 
-Here are some ideas to get you started:
+I am a beginner coder focusing on minecraft and some batch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check me out on [YouTube](https://www.youtube.com/@timeisped)
+**I am called [TimeSped](https://www.youtube.com/@timeisped) or you can also call me Adlan**
+
+<img align="right" alt="Timesped" width="180" src="https://github.com/itsame62/itsame62/blob/main/timesped.gif" />
+
+* likes video games
+* play's minecraft for 16 hours a weekend :>
+
+i enjoy (and want to) travel around the world since i've only been abroad once.
+*Bye!*
