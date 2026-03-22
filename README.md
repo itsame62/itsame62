@@ -2,7 +2,7 @@
 
 ## My Profile.
 
-I am a beginner coder focusing on minecraft and some batch
+I am a beginner coder focusing on minecraft and gd stuff
 
 <img align="right" alt="TimeSped" width="280" src="https://github.com/itsame62/itsame62/blob/main/timesped.gif" />
 
