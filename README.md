@@ -2,14 +2,13 @@
 
 ## My Profile.
 
-I am a beginner coder focusing on minecraft and gd stuff
+I am a Geometry Dash and Minecraft player! (usually bedrock but sometimes java)
 
-<img align="right" alt="TimeSped" width="280" src="https://github.com/itsame62/itsame62/blob/main/timesped.gif" />
 
-**I am called [TimeSped](https://www.youtube.com/@timeisped) or you can also call me Adlan**
+**I am called [SoXander](https://www.youtube.com/@soxandergd) or you can also call me Adlan**
 
 * likes video games
 * play's roblox and geometry dash ALOT :>
 
-i enjoy (and want to) travel around the world since i've only been abroad once.
+thats it.
 *Bye!*
